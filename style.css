@@ -1,0 +1,29 @@
+* {
+	color: black;
+	font-family: "Georgia", sans-serif;
+}
+
+body {
+	align-items: center;
+	text-align: center;
+	background: url(https://www.pixelstalk.net/wp-content/uploads/images5/Aesthetic-Cloud-Desktop-Background.jpg);
+}
+
+.container {
+   margin-top: 20px;
+   font-family: courier;
+   border-radius: 10px;
+   background: rgba(255, 255, 255, .1);
+   backdrop-filter: blur(50px);
+}
+
+details {
+	background-color: #D7DAE5;
+	border-radius: 90px;
+}
+
+.btn {
+	background-color: #;
+}
+
+
